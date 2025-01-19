@@ -3,7 +3,7 @@
 ## About Me
 👀 **Interests**: I'm passionate about coding and continuously learning new things in the tech world.
 
-🌱 **Current Endeavor**: I'm pursuing a Master's in Computer Applications. Excited to dive deeper into software development and design patterns!
+🌱 **Current Endeavor**: I'm pursuing a Master's in Computer Applications. Excited to dive deeper into programing!
 
 📫 **Reach Me**: You can find me on Instagram at [@akshit_sonani](https://www.instagram.com/akshit_sonani).
 
