@@ -7,9 +7,6 @@
 
 📫 **Reach Me**: You can find me on Instagram at [@akshit_sonani](https://www.instagram.com/akshit_sonani).
 
-## Fun Facts
-😄 **Pronouns**: none
-
 ⚡ **Fun Fact**: Despite its complexity, I absolutely love tackling complex coding challenges!
 
 ---
