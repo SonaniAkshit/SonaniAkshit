@@ -1,20 +1,67 @@
-# Hi there! 👋 I'm @SonaniAkshit
-
-## About Me
-👀 **Interests**: I'm passionate about coding and continuously learning new things in the tech world.
-
-🌱 **Current Endeavor**: I'm pursuing a Master's in Computer Applications. Excited to dive deeper into programing!
-
-📫 **Reach Me**: You can find me on Instagram at [@akshit_sonani](https://www.instagram.com/akshit_sonani).
-
-⚡ **Fun Fact**: Despite its complexity, I absolutely love tackling complex coding challenges!
+<h1 align="center">Hey there! 👋 I'm Akshit Sonani</h1>
+<p align="center"> 🌐 Web Enthusiast | 🎓 MCA Student | 📚 Lifelong Learner</p>
 
 ---
 
-If you find this repository helpful, please give it a star ⭐️. Let's connect and grow together in this exciting journey of coding and learning!
+## 🚀 About Me
 
+Hi! I'm Akshit — a current **MCA (Master of Computer Applications) student**.  
+I'm always exploring new tools and technologies to grow.  
+Currently, I’m focused on building full-stack web apps and backend services with efficient and scalable architecture.
 
-<!---
-SonaniAkshit/SonaniAkshit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+- Java ☕
+- HTML 🧾
+- CSS 🎨
+- JavaScript ⚡ (basic)
+- Python 🐍
+
+### 🧰 Tools & Technologies
+- JSP & Servlets 🌐
+- MySQL 🛢️
+- Git & GitHub 🔧
+- Eclipse / IntelliJ 💡
+- SweetAlert2 for UI Alerts 🎉
+
+---
+
+## 📂 Featured Projects
+
+### 📚 [E-Book Digital Store](https://github.com/SonaniAkshit/Bookstore-Jsp-Servlet-Web-Project-java-Ant)
+A dynamic JSP-based digital library web application with:
+- 🔍 Category-wise book browsing
+- 🛒 Add to Cart system (with login redirect using SweetAlert)
+- 📧 Newsletter & contact form integration with email notifications
+
+### 🧠 [Java Design Patterns](https://github.com/SonaniAkshit/Design-Pattern-Java)
+A collection of classic **Java Design Patterns** with clean examples and explanations.
+- 📦 Creational, Structural, Behavioral patterns
+- 💡 Perfect for revision & reference!
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=radical" alt="Akshit's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaniAkshit&layout=compact&theme=radical" alt="Top Languages" height="150" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: [sonaniakshit777@gmail.com](mailto:sonaniakshit777@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BSImphXZ0QPqcVQ%2FdRXXhrA%3D%3D)
+- 🌐 Portfolio: (Coming soon!)
+
+---
+
+### ✨ Fun Fact
+
+> “First, solve the problem. Then, write the code.” — John Johnson  
+Let’s build something awesome together! 💡🚀
