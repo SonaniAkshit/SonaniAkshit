@@ -56,8 +56,9 @@ A collection of classic **Java Design Patterns** with clean examples and explana
 ## 📫 Connect with Me
 
 - 📧 Email: [sonaniakshit777@gmail.com](mailto:sonaniakshit777@gmail.com)
-- 💼 LinkedIn: [Akshit Sonani](https://www.linkedin.com/in/akshit-sonani)
+- 💼 LinkedIn: [Akshit Sonani](https://www.linkedin.com/in/akshit-sonani-105b79348/)
 - 🌐 Portfolio: (Coming soon!)
+
 
 
 ---
