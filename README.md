@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Akshit Sonani</h1>
-<p align="center"> 🌐 Web Enthusiast | 🎓 MCA Student | 📚 Lifelong Learner</p>
+<!-- <p align="center"> 🌐 Web Enthusiast | 🎓 MCA Student | 📚 Lifelong Learner</p> -->
 
 ---
 
