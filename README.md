@@ -68,4 +68,4 @@ A collection of classic **Java Design Patterns** with clean examples and explana
 
 > “First, solve the problem. Then, write the code.” — John Johnson  
 Let’s build something awesome together! 💡🚀
-- Every Bug is a lasson
+> <br>Every Bug is a lasson
