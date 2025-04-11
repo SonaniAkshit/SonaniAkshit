@@ -10,25 +10,6 @@ I'm always exploring new tools and technologies to grow.
 Currently, I’m focused on building full-stack web apps and backend services with efficient and scalable architecture.
 
 ---
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-- Java ☕
-- HTML 🧾
-- CSS 🎨
-- JavaScript ⚡ (basic)
-- Python 🐍
-
-### 🧰 Tools & Technologies
-- JSP & Servlets 🌐
-- MySQL 🛢️
-- Git & GitHub 🔧
-- Eclipse / IntelliJ 💡
-- SweetAlert2 for UI Alerts 🎉
-
----
-
 ## 📂 Featured Projects
 
 ### 📚 [E-Book Digital Store](https://github.com/SonaniAkshit/Bookstore-Jsp-Servlet-Web-Project-java-Ant)
