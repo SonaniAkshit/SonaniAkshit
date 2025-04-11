@@ -47,6 +47,7 @@ A collection of classic **Java Design Patterns** with clean examples and explana
 ## 📊 GitHub Stats
 
 ![Akshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonaniAkshit&layout=donut)
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Akshit's GitHub Stats" height="170" /> -->
 <!--   ![Akshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=transparent) -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaniAkshit&layout=compact&theme=radical" alt="Top Languages" height="170" /> -->
