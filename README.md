@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Akshit Sonani</h1>
+<h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>  I'm Akshit Sonani</h1>
 <!-- <p align="center"> 🌐 Web Enthusiast | 🎓 MCA Student | 📚 Lifelong Learner</p> -->
 
 ---
