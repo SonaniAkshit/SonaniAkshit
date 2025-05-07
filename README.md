@@ -17,6 +17,18 @@ Currently, I’m focused on building full-stack web apps and backend services wi
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,php&theme=dark" />
 </p>
 
+## 🗄️ &nbsp;Databases:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongo,mysql,postgres,oracle&theme=dark" />
+</p>
+
+## 🛠️ &nbsp;Tools:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,bash,postman&theme=dark" />
+</p>
+
 ## 📊 GitHub Stats
 
 ![Akshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=transparent)
