@@ -9,21 +9,13 @@ Hi! I'm Akshit — a current **MCA (Master of Computer Applications) student**.
 I'm always exploring new tools and technologies to grow.  
 Currently, I’m focused on building full-stack web apps and backend services with efficient and scalable architecture.
 
----
-## 📂 Featured Projects
+## ⚡️ Tech-Stack
 
-### 📚 [E-Book Digital Store](https://github.com/SonaniAkshit/Bookstore-Jsp-Servlet-Web-Project-java-Ant)
-A dynamic JSP-based digital library web application with:
-- 🔍 Category-wise book browsing
-- 🛒 Add to Cart system (with login redirect using SweetAlert)
-- 📧 Newsletter & contact form integration with email notifications
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22px" align="top"/> &nbsp;&nbsp;Languages:
 
-### 🧠 [Java Design Patterns](https://github.com/SonaniAkshit/Design-Pattern-Java)
-A collection of classic **Java Design Patterns** with clean examples and explanations.
-- 📦 Creational, Structural, Behavioral patterns
-- 💡 Perfect for revision & reference!
-
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,php&theme=dark" />
+</p>
 
 ## 📊 GitHub Stats
 
