@@ -29,7 +29,7 @@ Currently, I’m focused on building full-stack web apps and backend services wi
   <img src="https://skillicons.dev/icons?i=git,github,vscode,bash&theme=dark" />
 </p>
 
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" align="top"> GitHub Statistics
 
 ![Akshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonaniAkshit&layout=donut)
