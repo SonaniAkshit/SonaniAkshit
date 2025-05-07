@@ -41,13 +41,15 @@ Currently, I’m focused on building full-stack web apps and backend services wi
 ## 📬 Let's Connect.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akshit-sonani-105b79348/" target="_blank">
+  <a href="https://www.linkedin.com/in/akshit-sonani-105b79348/">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"/>
   </a>
-  <a href="mailto:sonaniakshit684@gmail.com" target="_blank">
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:sonaniakshit684@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email"/>
   </a>
-  <a href="https://x.com/akshit_sonani_" target="_blank">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/akshit_sonani_">
    <img src="https://cdn.simpleicons.org/x/white" alt="X" style="background: black; width: 40px; height: 40px;">
   </a>
 </p>
