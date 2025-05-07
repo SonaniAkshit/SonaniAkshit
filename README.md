@@ -20,13 +20,13 @@ Currently, I’m focused on building full-stack web apps and backend services wi
 ## 🗄️ &nbsp;Databases:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongo,mysql,postgres,sql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongo,mysql,postgres&theme=dark" />
 </p>
 
 ## 🛠️ &nbsp;Tools:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,bash,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,bash&theme=dark" />
 </p>
 
 ## 📊 GitHub Stats
