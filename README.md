@@ -1,8 +1,6 @@
 <h1 align="center">Hey there! I'm Akshit <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1> </h1>
 <!-- <p align="center"> 🌐 Web Enthusiast | 🎓 MCA Student | 📚 Lifelong Learner</p> -->
 
----
-
 ## 🚀 About Me
 
 Hi! I'm Akshit — a current **MCA (Master of Computer Applications) student**.  
@@ -36,7 +34,6 @@ Currently, I’m focused on building full-stack web apps and backend services wi
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Akshit's GitHub Stats" height="170" /> -->
 <!--   ![Akshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=transparent) -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaniAkshit&layout=compact&theme=radical" alt="Top Languages" height="170" /> hello -->
----
 
 ## 📫 Connect with Me
 
@@ -44,9 +41,6 @@ Currently, I’m focused on building full-stack web apps and backend services wi
 - 💼 LinkedIn: [Akshit Sonani](https://www.linkedin.com/in/akshit-sonani-105b79348/)
 - 🌐 Portfolio: (Coming soon!)
 
-
-
----
 
 ### ✨ Fun Fact
 
