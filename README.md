@@ -48,7 +48,7 @@ Currently, I’m focused on building full-stack web apps and backend services wi
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email"/>
   </a>
   <a href="https://x.com/akshit_sonani_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=x&theme=dark" alt="X"/>
+   <img src="https://cdn.simpleicons.org/x/white" alt="X" style="background: black; width: 40px; height: 40px;">
   </a>
 </p>
 
