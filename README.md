@@ -37,11 +37,26 @@ Currently, I’m focused on building full-stack web apps and backend services wi
 <!--   ![Akshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=transparent) -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaniAkshit&layout=compact&theme=radical" alt="Top Languages" height="170" /> hello -->
 
-## 📫 Connect with Me
+
+## 📬 Let's Connect.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshit-sonani-105b79348/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sonaniakshit684@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email"/>
+  </a>
+  <a href="https://x.com/akshit_sonani_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=x&theme=dark" alt="X"/>
+  </a>
+</p>
+
+<!-- ## 📫 Connect with Me
 
 - 📧 Email: [sonaniakshit777@gmail.com](mailto:sonaniakshit684@gmail.com)
 - 💼 LinkedIn: [Akshit Sonani](https://www.linkedin.com/in/akshit-sonani-105b79348/)
-- 🌐 Portfolio: (Coming soon!)
+- 🌐 Portfolio: (Coming soon!)-->
 
 
 ### ✨ Fun Fact
