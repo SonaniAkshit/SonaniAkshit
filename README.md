@@ -33,8 +33,8 @@ Currently, I’m focused on building full-stack web apps and backend services wi
 &nbsp;&nbsp;&nbsp;
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonaniAkshit&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117)-->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonaniAkshit&layout=donut)-->
-<img src="https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Akshit's GitHub Stats" height="170" />
-<!--   ![Akshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=transparent) -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Akshit's GitHub Stats" height="170" />-->
+![Akshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=transparent)
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaniAkshit&layout=compact&theme=radical" alt="Top Languages" height="170" /> hello -->
 
 
