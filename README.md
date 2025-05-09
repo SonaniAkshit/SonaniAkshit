@@ -14,7 +14,6 @@ Currently, I’m focused on building full-stack web apps and backend services wi
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,php&theme=dark" />
 </p>
-
 ### 🗄️ &nbsp;Databases:
 
 <p align="center">
