@@ -60,7 +60,9 @@ Currently, I’m focused on building full-stack web apps and backend services wi
 
 ### ✨ Fun Fact
 
-> “First, solve the problem. Then, write the code.” — John Johnson  
+> “First, solve the problem. Then, write the code.”  
 Let’s build something awesome together! 💡🚀
 > <br>
 > <br>Every Bug is a lasson 👾
+
+# 🔥 Happy Coding! 🚀
