@@ -11,6 +11,12 @@ Currently, I’m focused on building full-stack web apps and backend services wi
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22px" align="top"/> &nbsp;&nbsp;Languages:
 
+### 🧩 &nbsp;Frameworks:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bootstrap,django&theme=dark" />
+</p>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,php&theme=dark" />
 </p>
