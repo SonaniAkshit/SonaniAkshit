@@ -25,8 +25,12 @@ Currently, I’m focused on building full-stack web apps and backend services wi
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongo,mysql,postgres&theme=dark" />
-  <img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" height="48px" />
+  <div style="display: inline-block; text-align: center;">
+    <img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" height="48px" />
+    <div style="font-size: 12px; color: #ccc;">Oracle</div>
+  </div>
 </p>
+
 
 
 ### 🛠️ &nbsp;Tools:
