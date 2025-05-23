@@ -24,8 +24,10 @@ Currently, I’m focused on building full-stack web apps and backend services wi
 ### 🗄️ &nbsp;Database Schema:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongo,mysql,postgres,Oracle&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongo,mysql,postgres&theme=dark" />
+  <img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" height="48px" />
 </p>
+
 
 ### 🛠️ &nbsp;Tools:
 
