@@ -62,7 +62,11 @@ Currently, I’m focused on building full-stack web apps and backend services wi
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/akshit_sonani_">
-   <img src="https://cdn.simpleicons.org/x/white" alt="X" style="background: black; width: 40px; height: 40px;">
+    <img src="https://cdn.simpleicons.org/x/white" alt="X" style="background: black; width: 40px; height: 40px;">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/akshitsonani">
+    <img src="https://cdn.simpleicons.org/kaggle/white" alt="Kaggle" style="background: #20BEFF; width: 40px; height: 40px; border-radius: 6px;">
   </a>
 </p>
 
