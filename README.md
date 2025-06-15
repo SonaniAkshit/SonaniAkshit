@@ -41,7 +41,7 @@ Currently, I’m focused on building full-stack web apps and backend services wi
 </p>-->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=cobalt&include_all_commits=true&count_private=false&hide=prs,issues,contributions">
+  <img src="https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=synthwave&include_all_commits=true&count_private=false&hide=prs,issues,contributions">
 </p>
 
 <!-- <p align="center">
@@ -54,14 +54,14 @@ Currently, I’m focused on building full-stack web apps and backend services wi
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Akshit's GitHub Stats" height="170" /> -->
 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonaniAkshit&theme=cobalt" alt="GitHub Streak" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonaniAkshit&theme=synthwave" alt="GitHub Streak" />
 </p>
 
 ### 🔥Most Used Languages In Repositories
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaniAkshit&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117"> -->
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaniAkshit&theme=cobalt&langs_count=15">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaniAkshit&theme=synthwave&langs_count=15">
   
 </p>
 
