@@ -40,6 +40,8 @@ Currently, I’m focused on building full-stack web apps and backend services wi
 &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonaniAkshit&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117)
 
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonaniAkshit&theme=dark" alt="GitHub Streak" />
+
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonaniAkshit&layout=pie)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonaniAkshit&layout=donut)-->
