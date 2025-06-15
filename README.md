@@ -9,26 +9,26 @@ Currently, I’m focused on building full-stack web apps and backend services wi
 
 ## ⚡️ Tech-Stack
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22px" align="top"/> &nbsp;&nbsp;Languages:
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22px" align="top"/> &nbsp;&nbsp;Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,php&theme=dark" />
 </p>
 
-### 🧩 &nbsp;Frameworks:
+### 🧩 &nbsp;Frameworks
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=bootstrap,django&theme=dark" />
 </p>
 
-### 🗄️ &nbsp;Database Schema:
+### 🗄️ &nbsp;Database Schema
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongo,mysql,postgres&theme=dark" />
   <img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" height="48px" />
 </p>
 
-### 🛠️ &nbsp;Tools:
+### 🛠️ &nbsp;Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,bash&theme=dark" />
@@ -38,9 +38,12 @@ Currently, I’m focused on building full-stack web apps and backend services wi
 
 ![Akshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=dark)
 &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonaniAkshit&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117)
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonaniAkshit&theme=dark" alt="GitHub Streak" />
+
+### 🔥Most Used Languages In Repositories
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonaniAkshit&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonaniAkshit&layout=pie)](https://github.com/anuraghazra/github-readme-stats)-->
 
