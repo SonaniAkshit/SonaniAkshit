@@ -40,7 +40,8 @@ Currently, I’m focused on building full-stack web apps and backend services wi
   <img src="https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=dark&include_all_commits=true&count_private=false&hide=prs,issues,contributions">
 </p>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Akshit's GitHub Stats" height="170" /> -->
 
