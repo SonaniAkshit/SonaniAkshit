@@ -36,17 +36,17 @@ Currently, I’m focused on building full-stack web apps and backend services wi
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" align="top"> GitHub Statistics
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=dark&bg_color=00000000&include_all_commits=true&count_private=false&hide=prs,issues,contributions">
-</p>
+</p>-->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&bg_color=00000000&include_all_commits=true&count_private=false&hide=prs,issues,contributions">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=transparent&include_all_commits=true&count_private=false&hide=prs,issues,contributions">
-</p>
+</p>-->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent) -->
