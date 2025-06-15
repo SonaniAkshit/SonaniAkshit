@@ -73,7 +73,7 @@ Currently, I’m focused on building full-stack web apps and backend services wi
 
 ## Leetcode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sonaniakshit&theme=gruvbox"/>
+  <img src="https://leetcard.jacoblin.cool/sonaniakshit"/>
 </p>
 
 ## 📬 Let's Connect.
