@@ -37,7 +37,7 @@ Currently, I’m focused on building full-stack web apps and backend services wi
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" align="top"> GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=default&include_all_commits=true&count_private=false&hide=prs,issues">
+  <img src="https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=dark&include_all_commits=true&count_private=false&hide=prs,issues,contributions">
 </p>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Akshit's GitHub Stats" height="170" /> -->
