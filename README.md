@@ -41,7 +41,7 @@ Currently, I’m focused on building full-stack web apps and backend services wi
 </p>-->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=false&hide=prs,issues,contributions">
+  <img src="https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=onedark&include_all_commits=true&count_private=false&hide=prs,issues,contributions">
 </p>
 
 <!-- <p align="center">
@@ -54,7 +54,7 @@ Currently, I’m focused on building full-stack web apps and backend services wi
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Akshit's GitHub Stats" height="170" /> -->
 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonaniAkshit&theme=gruvbox" alt="GitHub Streak" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonaniAkshit&theme=onedark" alt="GitHub Streak" />
 </p>
 
 ### 🔥Most Used Languages In Repositories
