@@ -51,7 +51,7 @@ Currently, I’m focused on building full-stack web apps and backend services wi
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaniAkshit&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117"> -->
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaniAkshit&theme=dark&langs_count=15&card_width=400">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SonaniAkshit&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SonaniAkshit">
   
 </p>
 
