@@ -57,7 +57,7 @@ Currently, I’m focused on building full-stack web apps and backend services wi
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonaniAkshit&theme=dark" alt="GitHub Streak" />
 </p>
 
-### 🔥Most Used Languages In Repositories
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22px" align="top"/> &nbsp;&nbsp; Most Used Languages In Repositories
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaniAkshit&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117"> -->
 
