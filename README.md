@@ -36,13 +36,14 @@ Currently, I’m focused on building full-stack web apps and backend services wi
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" align="top"> GitHub Statistics
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=dark&bg_color=00000000&include_all_commits=true&count_private=false&hide=prs,issues,contributions">
-</p>-->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=prs,issues" alt="GitHub Stats" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=dark&include_all_commits=true&count_private=false&hide=prs,issues,contributions">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonaniAkshit&theme=dark" alt="GitHub Streak" />
 </p>
+
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=transparent&include_all_commits=true&count_private=false&hide=prs,issues,contributions">
@@ -53,9 +54,9 @@ Currently, I’m focused on building full-stack web apps and backend services wi
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Akshit's GitHub Stats" height="170" /> -->
 
-<p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonaniAkshit&theme=dark" alt="GitHub Streak" />
-</p>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=dark&bg_color=00000000&include_all_commits=true&count_private=false&hide=prs,issues,contributions">
+</p>-->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22px" align="top"/> &nbsp;&nbsp; Most Used Languages In Repositories
 <p align="center">
