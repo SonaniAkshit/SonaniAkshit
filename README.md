@@ -41,7 +41,7 @@ Currently, I’m focused on building full-stack web apps and backend services wi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonaniAkshit&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonaniAkshit" alt="GitHub Streak" />
 </p>
 
 
