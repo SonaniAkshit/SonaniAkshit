@@ -55,16 +55,6 @@ I'm actively learning and building projects in:
 
 ---
 
-## 🧠 Machine Learning & Data Science
-
-- 📊 Exploratory Data Analysis (EDA)
-- 🤖 Supervised & Unsupervised ML
-- 📚 Model Building with Scikit-learn & TensorFlow
-- 🌌 Deep Learning with Neural Networks
-- 🧪 Working on real-world datasets using Python
-
----
-
 ## 🧩 LeetCode Profile
 
 <p align="center">
