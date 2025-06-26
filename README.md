@@ -50,7 +50,7 @@ I'm actively learning and building projects in:
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22px" align="top"/> &nbsp;&nbsp; Most Used Languages In Repositories
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaniAkshit&theme=dark&width=100&langs_count=15&hide=php,html,css,js">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaniAkshit&theme=dark&width=200&langs_count=15&hide=php,html,css,javascript">
 </p>
 
 ---
