@@ -63,28 +63,6 @@ I'm actively learning and building projects in:
 
 ---
 
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/akshit-sonani-105b79348/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:sonaniakshit684@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/akshit_sonani_">
-    <img src="https://cdn.simpleicons.org/x/white" alt="X" style="background: black; width: 32px; height: 32px; border-radius: 6px;">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.kaggle.com/akshitsonani">
-    <img src="https://cdn.simpleicons.org/kaggle/white" alt="Kaggle" style="background: #20BEFF; width: 32px; height: 32px; border-radius: 6px;">
-  </a>
-</p>
-
----
-
 ### ✨ Fun Quote
 
 > “First, solve the problem. Then, write the code.” — John Johnson  
