@@ -38,6 +38,11 @@ I'm actively learning and building projects in:
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
 </p>
 
+### Machine Learning & Data Science
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,tensorflow,pytorch&theme=dark" /> 
+</p>
+
 ---
 
 ## 📈 GitHub Stats
