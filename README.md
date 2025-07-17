@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 About Me
+<!-- ## 🚀 About Me
 
 Hi! I'm **Akshit**, an MCA student passionate about solving real-world problems through code.  
 I'm actively learning and building projects in:
@@ -14,7 +14,7 @@ I'm actively learning and building projects in:
 - 🤖 Machine Learning & Deep Learning  
 - 🛠️ Backend Systems & APIs  
 
----
+--- -->
 
 ## 💡 Tech Stack
 
