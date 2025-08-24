@@ -87,27 +87,27 @@ I'm actively learning and building projects in:
 ## 🚀 Projects
 
 <p align="center">
-  <a href="https://github.com/SonaniAkshit/Project-1">
+  <a href="https://github.com/SonaniAkshit/university-chatbot-console">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonaniAkshit&repo=university-chatbot-console&theme=dark" />
   </a>
 
-   <a href="https://github.com/SonaniAkshit/Project-1">
+   <a href="https://github.com/SonaniAkshit/university-chatbot-web">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonaniAkshit&repo=university-chatbot-web&theme=dark" />
   </a>
 
-  <a href="https://github.com/SonaniAkshit/Project-2">
+  <a href="https://github.com/SonaniAkshit/Books-Rating-Review-Python-Django">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonaniAkshit&repo=Books-Rating-Review-Python-Django&theme=dark" />
   </a>
 
-  <a href="https://github.com/SonaniAkshit/Project-2">
+  <a href="https://github.com/SonaniAkshit/Bookstore-JspServlet">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonaniAkshit&repo=Bookstore-JspServlet&theme=dark" />
   </a>
 
-   <a href="https://github.com/SonaniAkshit/Project-2">
+   <a href="https://github.com/SonaniAkshit/e-commerce-clothstore-system-PHP">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonaniAkshit&repo=e-commerce-clothstore-system-PHP&theme=dark" />
   </a>
 
-   <a href="https://github.com/SonaniAkshit/Project-2">
+   <a href="https://github.com/SonaniAkshit/Car-Booking-System-PHP">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonaniAkshit&repo=Car-Booking-System-PHP&theme=dark" />
   </a>
 </p>
