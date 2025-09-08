@@ -56,7 +56,7 @@ I'm actively learning and building projects in:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonaniakshit&theme=dark" alt="Akshit's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonaniAkshit&theme=dark" alt="Akshit's GitHub Stats"/>
 </p>
 
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omrojesara&theme=tokyonight) -->
