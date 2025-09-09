@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! I'm Akshit <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<p align="center"><i>🌐 Full-Stack Developer | 🎓 MCA Student | 🤖 ML & AI Enthusiast</i></p>
+<p align="center"><i>🌐 Full-Stack Developer | 🎓 MCA Student | 🤖 ML & AI Enthusiast | 📊 Passionate About Data Science</i></p>
 
 ---
 
