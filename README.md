@@ -5,6 +5,8 @@
 ---
 ## 💡 Tech Stack 
 
+<img src="https://komarev.com/ghpvc/?username=SonaniAkshit&label=Profile%20Views&color=blue&style=for-the-badge" alt="profile views"/>
+
 ### 💻 Languages 
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,php&theme=dark" /> 
