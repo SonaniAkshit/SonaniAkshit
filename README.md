@@ -3,7 +3,7 @@
 <p align="center"><i>🌐 Full-Stack Developer | 🎓 MCA Student | 🤖 ML & AI Enthusiast | 📊 Passionate About Data Science</i></p>
 
 ---
-<!-- ## 💡 Tech Stack 
+## 💡 Tech Stack 
 
 ### Languages 
 <p align="center"> 
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Matplotlib-2060a8?style=for-the-badge&logo=matplotlib&logoColor=white" /> 
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> 
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> 
-</p> -->
+</p>
 
 ## 🛠️ Tech Stack  
 
