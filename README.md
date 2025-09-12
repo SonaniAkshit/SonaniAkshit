@@ -5,28 +5,28 @@
 ---
 ## 💡 Tech Stack 
 
-### Languages 
+### 💻 Languages 
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,php&theme=dark" /> 
 </p> 
 
-### Frameworks & Libraries 
+### ⚛️ Frameworks & Libraries 
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=django,bootstrap&theme=dark" /> 
 </p> 
 
-### Databases 
+### 🗄️ Databases 
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=mysql,mongo,postgres&theme=dark" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" />
 </p> 
 
-### Tools & Platforms 
+### 🧰 Tools & Platforms 
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" /> 
 </p> 
 
-### Machine Learning & Data Science 
+### 🤖 Machine Learning & Data Science 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
