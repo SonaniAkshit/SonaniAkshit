@@ -18,7 +18,7 @@
 ### Databases 
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=mysql,mongo,postgres&theme=dark" /> 
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" />
 </p> 
 
 ### Tools & Platforms 
