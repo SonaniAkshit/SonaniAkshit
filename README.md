@@ -104,11 +104,11 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <!-- Main GitHub stats (no private counts) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=dark&hide=prs,issues" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=dark" />
+</p>
 
-  <!-- Top languages (compact pie) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaniAkshit&layout=pie&theme=dark&langs_count=8" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SonaniAkshit&layout=pie&theme=dark" />
 </p>
 
 <!-- Streak (optional) - if this fails, remove or replace with another service -->
