@@ -120,7 +120,7 @@
 <!-- LeetCode Card -->
 <p align="center">
   <!-- leetcard (works for most users). Use your leetcode username (lowercase is safe). -->
-  <img src="https://leetcard.jacoblin.cool/sonaniakshit?theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/SonaniAkshit?theme=dark" alt="LeetCode Stats" />
 </p>
 
 
