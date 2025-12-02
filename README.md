@@ -109,7 +109,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaniAkshit&layout=compact&theme=dark&langs_count=15&hide=php,html,css,javascript" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaniAkshit\&hide_progress=true&hide=php,html,css,javascript" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaniAkshit&layout=pie&theme=dark&langs_count=15&hide=php,html,css,javascript" />
 </p>
 
 <!-- Streak (optional) - if this fails, remove or replace with another service -->
