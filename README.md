@@ -125,6 +125,8 @@
   <a href="https://github.com/SonaniAkshit/Car-Booking-System-PHP">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonaniAkshit&repo=Car-Booking-System-PHP&theme=dark" />
   </a>
+</p>
+
 ---
 
 ### ✨ Quote
