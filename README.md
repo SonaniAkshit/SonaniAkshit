@@ -108,7 +108,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=dark&include_all_commits=true&hide=prs,issues" alt="Akshit's GitHub Stats"/>
 </p> -->
 
-![Top Langs - mirror](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SonaniAkshit&layout=pie&stats_format=bytes&theme=dark)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/SonaniAkshit?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/repos-per-language/SonaniAkshit?label=Repos&style=for-the-badge" />
+</p>
 
 
 <p align="center">
