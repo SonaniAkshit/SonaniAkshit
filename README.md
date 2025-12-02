@@ -104,12 +104,16 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=dark&hide=prs,issues&cache_seconds=7200" />
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/SonaniAkshit?label=Followers&style=for-the-badge" alt="Followers" />
+
+  <!-- Public repos -->
+  <img src="https://img.shields.io/github/repo-size/SonaniAkshit/university-chatbot-web?label=Repo%20Size&style=for-the-badge" alt="Repo Size" />
+
+  <!-- GitHub language (top) -->
+  <img src="https://img.shields.io/github/languages/top/SonaniAkshit/university-chatbot-web?label=Top%20Language&style=for-the-badge" alt="Top Language" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaniAkshit&layout=pie&theme=dark&langs_count=8&cache_seconds=7200" />
-</p>
 
 <!-- Streak (optional) - if this fails, remove or replace with another service -->
 <p align="center">
