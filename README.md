@@ -104,13 +104,11 @@
 
 <!-- GitHub Stats -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=dark&include_all_commits=true&hide=prs,issues" alt="Akshit's GitHub Stats"/>
-</p>
+</p> -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaniAkshit\&hide_progress=true" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonaniAkshit\&stats_format=bytes)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaniAkshit&layout=pie&theme=dark&langs_count=15&hide=php,html,css,javascript" />
