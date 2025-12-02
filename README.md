@@ -109,12 +109,6 @@
 </p> -->
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/SonaniAkshit?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/repos-per-language/SonaniAkshit?label=Repos&style=for-the-badge" />
-</p>
-
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaniAkshit&layout=pie&theme=dark&langs_count=15&hide=php,html,css,javascript" />
 </p>
 
