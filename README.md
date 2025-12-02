@@ -103,10 +103,9 @@
 </p> -->
 
 <!-- GitHub Stats -->
-<p align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide=prs,issues" alt="Akshit's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=dark&include_all_commits=true&hide=prs,issues" alt="Akshit's GitHub Stats"/>
 </p>
 
 <p align="center">
