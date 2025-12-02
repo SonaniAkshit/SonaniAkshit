@@ -90,7 +90,7 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide=prs,issues" alt="Akshit's GitHub Stats"/>
 </p>
 
@@ -100,7 +100,28 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaniAkshit&layout=pie&theme=dark&langs_count=15&hide=php,html,css,javascript" />
+</p> -->
+
+<!-- GitHub Stats -->
+<p align="center">
+  <!-- Main GitHub stats (no private counts) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=dark&hide=prs,issues" alt="GitHub Stats"/>
+
+  <!-- Top languages (compact pie) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaniAkshit&layout=pie&theme=dark&langs_count=8" alt="Top Languages" />
 </p>
+
+<!-- Streak (optional) - if this fails, remove or replace with another service -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonaniAkshit&theme=dark" alt="GitHub Streak" />
+</p>
+
+<!-- LeetCode Card -->
+<p align="center">
+  <!-- leetcard (works for most users). Use your leetcode username (lowercase is safe). -->
+  <img src="https://leetcard.jacoblin.cool/sonaniakshit?theme=dark" alt="LeetCode Stats" />
+</p>
+
 
 ---
 
