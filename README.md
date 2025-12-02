@@ -104,16 +104,14 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <!-- Followers -->
-  <img src="https://img.shields.io/github/followers/SonaniAkshit?label=Followers&style=for-the-badge" alt="Followers" />
 
-  <!-- Public repos -->
-  <img src="https://img.shields.io/github/repo-size/SonaniAkshit/university-chatbot-web?label=Repo%20Size&style=for-the-badge" alt="Repo Size" />
-
-  <!-- GitHub language (top) -->
-  <img src="https://img.shields.io/github/languages/top/SonaniAkshit/university-chatbot-web?label=Top%20Language&style=for-the-badge" alt="Top Language" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide=prs,issues" alt="Akshit's GitHub Stats"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaniAkshit&layout=pie&theme=dark&langs_count=15&hide=php,html,css,javascript" />
+</p>
 
 <!-- Streak (optional) - if this fails, remove or replace with another service -->
 <p align="center">
@@ -164,5 +162,16 @@
 <p align="center"><b>🔥 Happy Coding! Let’s build something amazing 🚀</b></p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=SonaniAkshit&label=Profile%20Views&color=blue&style=for-the-badge" alt="profile views"/>
+
+  <img src="https://komarev.com/ghpvc/?username=SonaniAkshit&label=Profile%20Views&color=blue&style=for-the-badge" alt="profile views"/>
+  
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/SonaniAkshit?label=Followers&style=for-the-badge" alt="Followers" />
+
+  <!-- Public repos -->
+  <img src="https://img.shields.io/github/repo-size/SonaniAkshit/university-chatbot-web?label=Repo%20Size&style=for-the-badge" alt="Repo Size" />
+
+  <!-- GitHub language (top) -->
+  <img src="https://img.shields.io/github/languages/top/SonaniAkshit/university-chatbot-web?label=Top%20Language&style=for-the-badge" alt="Top Language" />
 </p>
+
