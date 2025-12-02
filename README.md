@@ -109,7 +109,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaniAkshit\&hide_progress=true&hide=php,html,css,javascript" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaniAkshit\&hide_progress=true" />
 </p>
 
 <p align="center">
