@@ -124,18 +124,18 @@
 </p>
 
 
----
+<!-- ---
 
 ## 🚀 Projects
 
 <p align="center">
-  <!-- <a href="https://github.com/SonaniAkshit/university-chatbot-console">
+  <a href="https://github.com/SonaniAkshit/university-chatbot-console">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonaniAkshit&repo=university-chatbot-console&theme=dark" />
-  </a> -->
+  </a>
   <a href="https://github.com/SonaniAkshit/university-chatbot-web">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonaniAkshit&repo=university-chatbot-web&theme=dark" />
   </a>
-  <!-- <a href="https://github.com/SonaniAkshit/Books-Rating-Review-Python-Django">
+  <a href="https://github.com/SonaniAkshit/Books-Rating-Review-Python-Django">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonaniAkshit&repo=Books-Rating-Review-Python-Django&theme=dark" />
   </a>
   <a href="https://github.com/SonaniAkshit/Bookstore-JspServlet">
@@ -146,8 +146,8 @@
   </a>
   <a href="https://github.com/SonaniAkshit/Car-Booking-System-PHP">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SonaniAkshit&repo=Car-Booking-System-PHP&theme=dark" />
-  </a> -->
-</p>
+  </a>
+</p> -->
 
 ---
 
