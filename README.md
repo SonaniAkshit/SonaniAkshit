@@ -108,9 +108,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SonaniAkshit&show_icons=true&theme=dark&include_all_commits=true&hide=prs,issues" alt="Akshit's GitHub Stats"/>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonaniAkshit&layout=pie&theme=dark&langs_count=15&hide=php,html,css,javascript" />
-</p>
+</p> -->
 
 <!-- Streak (optional) - if this fails, remove or replace with another service -->
 <p align="center">
