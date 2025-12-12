@@ -2,13 +2,9 @@
 
 <p align="center"><i>Machine Learning & Data Science | Python Developer</i></p>
 
----
-
 I work on Machine Learning, Data Science and backend development. My focus is on building practical, end-to-end solutions: analyzing data, developing models and turning ideas into working applications. I’m currently growing my skills through hands-on projects in Python, SQL and modern ML frameworks.
 
 I’m comfortable working across the stack, but my main strength lies in **ML, analytics and backend logic**.
-
----
 
 ## 🔧 **Core Skills**
 
@@ -27,7 +23,6 @@ I’m comfortable working across the stack, but my main strength lies in **ML, a
 - Git, GitHub, Linux, VS Code  
 - Jupyter Notebook, Kaggle  
 
----
 
 ## 📌 **Selected Projects**
 
@@ -47,7 +42,6 @@ A full web application with cart, product filters, admin panel and CRUD operatio
 A complete bookstore management system with login, book catalog, cart and admin controls.  
 **Repo:** [bookstore-jspservlet](https://github.com/SonaniAkshit/bookstore-jspservlet)
 
----
 
 ## 📊 **GitHub & LeetCode Activity**
 
@@ -59,7 +53,6 @@ A complete bookstore management system with login, book catalog, cart and admin 
   <img src="https://leetcard.jacoblin.cool/SonaniAkshit?theme=dark" />
 </p>
 
----
 
 ## 🎯 **What I'm Working On Now**
 - Strengthening core ML concepts  
@@ -67,7 +60,6 @@ A complete bookstore management system with login, book catalog, cart and admin 
 - Practicing problem-solving through Python and DSA  
 - Preparing for my Data Science career path  
 
----
 
 ## 📫 **Connect With Me**
 
@@ -109,8 +101,6 @@ A complete bookstore management system with login, book catalog, cart and admin 
   </a>
 
 </p>
-
----
 
 ## 💬 **Quote**
 > “Build something that works. Everything else is decoration.”
