@@ -46,7 +46,7 @@ A complete bookstore management system with login, book catalog, cart and admin 
 ## 📊 **GitHub & LeetCode Activity**
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SonaniAkshit&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SonaniAkshit&theme=dark&cache_seconds=1" />
 </p>
 
 <p align="center">
